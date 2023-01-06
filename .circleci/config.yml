@@ -11,6 +11,6 @@ jobs:
       - node/install
       - checkout
       - run: 
-            name:Hello
+            name: Hello
             command: echo "Hello-World"
   
