@@ -12,6 +12,6 @@ jobs:
       - node/install
       - checkout
       - run:
-          name: "Checking Versions"
+          name: Hello Mostafa
           command: |
-            node --version
+            echo "Hello world mostafa"
